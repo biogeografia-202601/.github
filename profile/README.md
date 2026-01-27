@@ -79,7 +79,8 @@ El código QR de arriba redirige a
 
 ## Prácticas de aula
 
-- [PA01. Técnicas de ecología numérica con *datasets* de R]()
+- [PA01. Técnicas de ecología numérica con *datasets* de
+  R](https://classroom.github.com/a/nhNopLOE)
   <!-- (https://github.com/biogeografia-master/tecnicas-ecologia-numerica-con-datasets-de-r). -->
   Plazo de entrega (con presentación + defensa + evaluación en aula): 17
   de febrero, 2026, 4:00 pm.
