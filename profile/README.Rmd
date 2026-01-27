@@ -10,15 +10,18 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r, warning=F, message=F, echo=F}
 library(qrcode)
 jpeg('qr.jpg', width = 300, height = 300)
-plot(qr_code("https://github.com/biogeografia-202502"))
+url <- "https://github.com/biogeografia-202601"
+plot(qr_code(url))
 invisible(dev.off())
 ```
 
 ![](qr.jpg)
 
+El código QR de arriba redirige a `r url`
+
 ## Programa
 
-- [Visita este enlace](programa-biogeografia-202502.pdf)
+- [Visita este enlace](programa-biogeografia-202601.pdf)
 
 
 ## Servicios o cuentas que deberás obtener:
@@ -35,7 +38,7 @@ invisible(dev.off())
   
 - Cuenta en GitHub. Si no tienes cuenta de GitHub, puedes usar el código QR que aparece arriba para navegar a esta misma página. Cuando entres, ve arriba y presiona *`Sign up`*. Este proceso suele ser largo, pero se resume básicamente así: te pedirá una dirección de correo electrónico, un nombre de usuario y una contraseña (el nombre de usuario y la contraseña tienen restricciones, así que lee la parte inferior de la caja correspondiente). Cuando cumplas con los requisitos de los campos correo electrónico, nombre de usuario y contraseña, entonces podrás avanzar al siguiente paso. En este, el sistema te pedirá que cumplas algunos desafíos "propios de humanos" (y yo me río). Cuando superes los desafíos, GitHub te enviará un mensaje de correo electrónico con un código de 6 u 8 dígitos que deberás ingresar de vuelta en GitHub. Superado este paso, tu cuenta de GitHub se habrá creado, y te pedirá que ingreses a ella usando nombre de usuario (o correo electrónico) y contraseña. Cuando termines, **no olvides notifícame tu nombre de usuario**, ya sea por correo electrónico o por el foro.
   
-- Otras cuentas recomendadas: ChatGPT o DeepSeek o Gemini (AI Studio de Google), Google Earth Engine, GBIF.
+- Otras cuentas: ChatGPT o DeepSeek o Gemini (AI Studio de Google), Google Earth Engine, GBIF.
 
 ## Presentaciones de diapositivas
 
@@ -43,29 +46,24 @@ invisible(dev.off())
 
 - [Unidad 1. Fundamentos, contexto de la biogeografía y repaso de ecología numérica](https://biogeografia-master.github.io/fundamentos-conceptos-repaso-ecologia-numerica/presentacion.html)
 
-- ["Unidad 2. La “plantilla” geográfica: factores físicos y ambientales"](https://biogeografia-master.github.io/plantilla-geografica-factores-fisicos-ambientales/README.html)
+<!-- - ["Unidad 2. La “plantilla” geográfica: factores físicos y ambientales"](https://biogeografia-master.github.io/plantilla-geografica-factores-fisicos-ambientales/README.html) -->
 
-- ["Unidad 3. Unidad 3. Distribución, dinámica y evolución de la biodiversidad"](https://biogeografia-master.github.io/distribucion-dinamica-evolucion-biodiversidad/README.html#1)
+<!-- - ["Unidad 3. Unidad 3. Distribución, dinámica y evolución de la biodiversidad"](https://biogeografia-master.github.io/distribucion-dinamica-evolucion-biodiversidad/README.html#1) -->
 
 
 ## Prácticas de aula
 
-- PA00. Cuentas y servicios que usarás.
-  
-- [PA01. Matriz de distancias](https://github.com/biogeografia-master/matriz-de-distancias). Plazo de entrega: 26 de agosto, 2025, 3:59 pm. (las prácticas de aula comúnmente se entregarán en el aula, pero esta, por ser la primera, la dejaré con un plazo de entrega mayor).
+- [PA01. Técnicas de ecología numérica con *datasets* de R](https://github.com/biogeografia-master/tecnicas-ecologia-numerica-con-datasets-de-r). Plazo de entrega (con presentación + defensa + evaluación en aula): 17 de febrero, 2026, 4:00 pm.
 
-- [PA02. Técnicas de ecología numérica con *datasets* de R](https://github.com/biogeografia-master/tecnicas-ecologia-numerica-con-datasets-de-r). Plazo de entrega: 2 de septiembre, 2025, 7:59 pm.
-
-- [PA03. Inferencia estadística a partir de dos muestras independientes usando datos biométricos](https://github.com/biogeografia-master/dos-muestras-independientes-biometria). Plazo de entrega: en el aula, 9 de septiembre, 2025, 7:59 pm.
+<!-- - [PA03. Inferencia estadística a partir de dos muestras independientes usando datos biométricos](https://github.com/biogeografia-master/dos-muestras-independientes-biometria). Plazo de entrega: en el aula, 9 de septiembre, 2025, 7:59 pm. -->
 
 <!-- - [PA03. Agrupar provincias según su riqueza relativa de especies por géneros de Bromeliaceae](https://github.com/biogeografia-master/agrupamiento-por-riqueza). Plazo de entrega: 4 de marzo, 2024, 7:59 pm. -->
 
 <!-- - [PA04: Análisis Exploratorio de Datos (AED) y Paradoja de Orlócy](https://github.com/biogeografia-master/aed-transformaciones-orlocy). Plazo de entrega: 17 de marzo, 2025, 11:59 pm. -->
 
-- [PA04: Medio físico, variables ambientales, correlación y regresión](https://github.com/biogeografia-master/medio-fisico-variables-ambientales). Plazo de entrega: 15 de septiembre de 2025, 11:59 pm.
+<!-- - [PA04: Medio físico, variables ambientales, correlación y regresión](https://github.com/biogeografia-master/medio-fisico-variables-ambientales). Plazo de entrega: 15 de septiembre de 2025, 11:59 pm. -->
 
-- [PA05. Modelos de distribución de especies (SDM) por medio de aprendizaje automático (*machine learning*)](https://classroom.github.com/a/bo9X7ufl) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 20 de octubre, 2025, 11:59 pm. [Vídeo tutorial](https://drive.google.com/file/d/1W6dckDAzI0Zm0tezKOnTx5oswpA8llQY/view?usp=drive_link).
-
+<!-- - [PA05. Modelos de distribución de especies (SDM) por medio de aprendizaje automático (*machine learning*)](https://classroom.github.com/a/bo9X7ufl) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 20 de octubre, 2025, 11:59 pm. [Vídeo tutorial](https://drive.google.com/file/d/1W6dckDAzI0Zm0tezKOnTx5oswpA8llQY/view?usp=drive_link). -->
 
 <!-- - [PA06: Distribución de especies, patrones de distribución por simple inspección](https://github.com/biogeografia-master/patrones-distribucion-simple-inspeccion). Plazo de entrega: 28 de octubre de 2025, 11:59 pm. -->
 
@@ -81,7 +79,7 @@ invisible(dev.off())
 
 ![Accede con este QR al tutorial interactivo "Introducción a R"](qr-tutorial1.jpg)
 
-## Prácticas de desarrollo
+## Práctica de desarrollo
 
 <!-- - [PD01. Hola Mundo](https://classroom.github.com/a/Bg7jw4W9). Plazo de entrega: 17 de febrero, 2025, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciada y perteneces a la organización `biogeografia-202501` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub. Si no perteneces a la organización, envíame un mensaje para invitarte. Más detalles en el [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link). -->
 
@@ -92,6 +90,6 @@ invisible(dev.off())
 <!-- - [PD05. Introducción a QGIS, diseño de muestreo espacial estratificado](https://classroom.github.com/a/mkvXeHXY) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 26 de noviembre, 2024, 11:59 pm. [Vídeo tutorial para el ejercicio 5 (pone "Práctica 4" en el vídeo, pero te valdrá igualmente)](https://drive.google.com/file/d/1k6IotOHj6fUkyfi4rSBK6d320TY45KED/view). -->
 
 
-## Proyecto de investigación
+<!-- ## Proyecto de investigación -->
 
-- [Proyecto de investigación. Tu tema, tu investigación. Biogeografía (GEO-131). Universidad Autónoma de Santo Domingo (UASD). Semestre 2025-02](https://classroom.github.com/a/ZCozbnjD). Plazo de entrega: 23 de diciembre, 2025, 11:59 pm. Este vídeo, aunque explica una práctica relacionada, podría servirte para comprender cómo usar el cuaderno RMarkdown: [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link).
+<!-- - [Proyecto de investigación. Tu tema, tu investigación. Biogeografía (GEO-131). Universidad Autónoma de Santo Domingo (UASD). Semestre 2025-02](https://classroom.github.com/a/ZCozbnjD). Plazo de entrega: 23 de diciembre, 2025, 11:59 pm. Este vídeo, aunque explica una práctica relacionada, podría servirte para comprender cómo usar el cuaderno RMarkdown: [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link). -->

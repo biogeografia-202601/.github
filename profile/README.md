@@ -4,9 +4,12 @@ Autónoma de Santo Domingo (UASD)
 
 ![](qr.jpg)
 
+El código QR de arriba redirige a
+<https://github.com/biogeografia-202601>
+
 ## Programa
 
-- [Visita este enlace](programa-biogeografia-202502.pdf)
+- [Visita este enlace](programa-biogeografia-202601.pdf)
 
 ## Servicios o cuentas que deberás obtener:
 
@@ -60,8 +63,8 @@ Autónoma de Santo Domingo (UASD)
   olvides notifícame tu nombre de usuario**, ya sea por correo
   electrónico o por el foro.
 
-- Otras cuentas recomendadas: ChatGPT o DeepSeek o Gemini (AI Studio de
-  Google), Google Earth Engine, GBIF.
+- Otras cuentas: ChatGPT o DeepSeek o Gemini (AI Studio de Google),
+  Google Earth Engine, GBIF.
 
 ## Presentaciones de diapositivas
 
@@ -71,45 +74,21 @@ Autónoma de Santo Domingo (UASD)
   ecología
   numérica](https://biogeografia-master.github.io/fundamentos-conceptos-repaso-ecologia-numerica/presentacion.html)
 
-- [“Unidad 2. La “plantilla” geográfica: factores físicos y
-  ambientales”](https://biogeografia-master.github.io/plantilla-geografica-factores-fisicos-ambientales/README.html)
-
-- [“Unidad 3. Unidad 3. Distribución, dinámica y evolución de la
-  biodiversidad”](https://biogeografia-master.github.io/distribucion-dinamica-evolucion-biodiversidad/README.html#1)
+<!-- - ["Unidad 2. La “plantilla” geográfica: factores físicos y ambientales"](https://biogeografia-master.github.io/plantilla-geografica-factores-fisicos-ambientales/README.html) -->
+<!-- - ["Unidad 3. Unidad 3. Distribución, dinámica y evolución de la biodiversidad"](https://biogeografia-master.github.io/distribucion-dinamica-evolucion-biodiversidad/README.html#1) -->
 
 ## Prácticas de aula
 
-- PA00. Cuentas y servicios que usarás.
-
-- [PA01. Matriz de
-  distancias](https://github.com/biogeografia-master/matriz-de-distancias).
-  Plazo de entrega: 26 de agosto, 2025, 3:59 pm. (las prácticas de aula
-  comúnmente se entregarán en el aula, pero esta, por ser la primera, la
-  dejaré con un plazo de entrega mayor).
-
-- [PA02. Técnicas de ecología numérica con *datasets* de
+- [PA01. Técnicas de ecología numérica con *datasets* de
   R](https://github.com/biogeografia-master/tecnicas-ecologia-numerica-con-datasets-de-r).
-  Plazo de entrega: 2 de septiembre, 2025, 7:59 pm.
+  Plazo de entrega (con presentación + defensa + evaluación en aula): 17
+  de febrero, 2026, 4:00 pm.
 
-- [PA03. Inferencia estadística a partir de dos muestras independientes
-  usando datos
-  biométricos](https://github.com/biogeografia-master/dos-muestras-independientes-biometria).
-  Plazo de entrega: en el aula, 9 de septiembre, 2025, 7:59 pm.
-
+<!-- - [PA03. Inferencia estadística a partir de dos muestras independientes usando datos biométricos](https://github.com/biogeografia-master/dos-muestras-independientes-biometria). Plazo de entrega: en el aula, 9 de septiembre, 2025, 7:59 pm. -->
 <!-- - [PA03. Agrupar provincias según su riqueza relativa de especies por géneros de Bromeliaceae](https://github.com/biogeografia-master/agrupamiento-por-riqueza). Plazo de entrega: 4 de marzo, 2024, 7:59 pm. -->
 <!-- - [PA04: Análisis Exploratorio de Datos (AED) y Paradoja de Orlócy](https://github.com/biogeografia-master/aed-transformaciones-orlocy). Plazo de entrega: 17 de marzo, 2025, 11:59 pm. -->
-
-- [PA04: Medio físico, variables ambientales, correlación y
-  regresión](https://github.com/biogeografia-master/medio-fisico-variables-ambientales).
-  Plazo de entrega: 15 de septiembre de 2025, 11:59 pm.
-
-- [PA05. Modelos de distribución de especies (SDM) por medio de
-  aprendizaje automático (*machine
-  learning*)](https://classroom.github.com/a/bo9X7ufl) (acepta la
-  práctica haciendo clic en el enlace). Plazo de entrega: 20 de octubre,
-  2025, 11:59 pm. [Vídeo
-  tutorial](https://drive.google.com/file/d/1W6dckDAzI0Zm0tezKOnTx5oswpA8llQY/view?usp=drive_link).
-
+<!-- - [PA04: Medio físico, variables ambientales, correlación y regresión](https://github.com/biogeografia-master/medio-fisico-variables-ambientales). Plazo de entrega: 15 de septiembre de 2025, 11:59 pm. -->
+<!-- - [PA05. Modelos de distribución de especies (SDM) por medio de aprendizaje automático (*machine learning*)](https://classroom.github.com/a/bo9X7ufl) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 20 de octubre, 2025, 11:59 pm. [Vídeo tutorial](https://drive.google.com/file/d/1W6dckDAzI0Zm0tezKOnTx5oswpA8llQY/view?usp=drive_link). -->
 <!-- - [PA06: Distribución de especies, patrones de distribución por simple inspección](https://github.com/biogeografia-master/patrones-distribucion-simple-inspeccion). Plazo de entrega: 28 de octubre de 2025, 11:59 pm. -->
 <!-- - [PA07: Distribución de especies en la bibliografía](https://github.com/biogeografia-master/distribucion-de-especies-en-bibliografia). Plazo de entrega: 15 de octubre de 2024, 7:59 pm. -->
 <!-- - [PA08: Distribución de comunidades en la bibliografía](https://github.com/biogeografia-master/distribucion-de-comunidades-en-bibliografia). Plazo de entrega: 29 de octubre de 2024, 7:59 pm. -->
@@ -130,19 +109,11 @@ alt="Accede con este QR al tutorial interactivo “Introducción a R”" />
 interactivo “Introducción a R”</figcaption>
 </figure>
 
-## Prácticas de desarrollo
+## Práctica de desarrollo
 
 <!-- - [PD01. Hola Mundo](https://classroom.github.com/a/Bg7jw4W9). Plazo de entrega: 17 de febrero, 2025, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciada y perteneces a la organización `biogeografia-202501` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub. Si no perteneces a la organización, envíame un mensaje para invitarte. Más detalles en el [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link). -->
 <!-- - [PD02. Técnicas de ecología numérica, reproducibilidad](https://classroom.github.com/a/MvOiH8vb) (acepta la práctica haciendo clic en el vínculo). Plazo de entrega: 16 de marzo, 2025, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciada y perteneces a la organización `biogeografia-202501` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub (repasa el tutorial de la PD01 si tuvieses problemas al aceptar la práctica). Los vídeos tutoriales sobre cómo realizar esta práctica están indicados en el mandato (README) y en el ejemplo de análisis (archivo legible `ejemplo-de-analisis.html`). -->
 <!-- - [PD03. Introducción a Python](https://classroom.github.com/a/lT282gkM) (acepta la práctica haciendo clic en el vínculo). Plazo de entrega: 28 de abril, 2025, 11:59 pm. -->
 <!-- - [PD05. Introducción a QGIS, diseño de muestreo espacial estratificado](https://classroom.github.com/a/mkvXeHXY) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 26 de noviembre, 2024, 11:59 pm. [Vídeo tutorial para el ejercicio 5 (pone "Práctica 4" en el vídeo, pero te valdrá igualmente)](https://drive.google.com/file/d/1k6IotOHj6fUkyfi4rSBK6d320TY45KED/view). -->
-
-## Proyecto de investigación
-
-- [Proyecto de investigación. Tu tema, tu investigación. Biogeografía
-  (GEO-131). Universidad Autónoma de Santo Domingo (UASD). Semestre
-  2025-02](https://classroom.github.com/a/ZCozbnjD). Plazo de entrega:
-  23 de diciembre, 2025, 11:59 pm. Este vídeo, aunque explica una
-  práctica relacionada, podría servirte para comprender cómo usar el
-  cuaderno RMarkdown: [Vídeo tutorial “PD01. Hola
-  Mundo”](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link).
+<!-- ## Proyecto de investigación -->
+<!-- - [Proyecto de investigación. Tu tema, tu investigación. Biogeografía (GEO-131). Universidad Autónoma de Santo Domingo (UASD). Semestre 2025-02](https://classroom.github.com/a/ZCozbnjD). Plazo de entrega: 23 de diciembre, 2025, 11:59 pm. Este vídeo, aunque explica una práctica relacionada, podría servirte para comprender cómo usar el cuaderno RMarkdown: [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link). -->
