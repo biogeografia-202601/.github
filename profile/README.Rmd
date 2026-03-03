@@ -81,7 +81,7 @@ Plazo de entrega (con presentación + defensa + evaluación en aula): 17 de febr
 
 ![Accede con este QR al tutorial interactivo "Introducción a R"](qr-tutorial1.jpg)
 
-## Práctica de desarrollo
+<!-- ## Práctica de desarrollo -->
 
 <!-- - [PD01. Hola Mundo](https://classroom.github.com/a/Bg7jw4W9). Plazo de entrega: 17 de febrero, 2025, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciada y perteneces a la organización `biogeografia-202501` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub. Si no perteneces a la organización, envíame un mensaje para invitarte. Más detalles en el [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link). -->
 
@@ -92,6 +92,6 @@ Plazo de entrega (con presentación + defensa + evaluación en aula): 17 de febr
 <!-- - [PD05. Introducción a QGIS, diseño de muestreo espacial estratificado](https://classroom.github.com/a/mkvXeHXY) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 26 de noviembre, 2024, 11:59 pm. [Vídeo tutorial para el ejercicio 5 (pone "Práctica 4" en el vídeo, pero te valdrá igualmente)](https://drive.google.com/file/d/1k6IotOHj6fUkyfi4rSBK6d320TY45KED/view). -->
 
 
-<!-- ## Proyecto de investigación -->
+## Proyecto de investigación/desarrollo
 
-<!-- - [Proyecto de investigación. Tu tema, tu investigación. Biogeografía (GEO-131). Universidad Autónoma de Santo Domingo (UASD). Semestre 2025-02](https://classroom.github.com/a/ZCozbnjD). Plazo de entrega: 23 de diciembre, 2025, 11:59 pm. Este vídeo, aunque explica una práctica relacionada, podría servirte para comprender cómo usar el cuaderno RMarkdown: [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link). -->
+- [Proyecto de investigación/desarrollo. Tu tema, tu investigación. Biogeografía (GEO-131). Universidad Autónoma de Santo Domingo (UASD). Semestre 2026-01](https://classroom.github.com/a/nEIAZSbB). Plazo de entrega: 17 de mayo, 2026, 11:59 pm.
