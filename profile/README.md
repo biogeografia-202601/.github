@@ -94,7 +94,7 @@ El código QR de arriba redirige a
   4:00 pm.
 
 - [PA02. Medio físico, variables ambientales, análisis espacial,
-  correlación, regresión](https://classroom.github.com/a/Yz5wbe25).
+  correlación, regresión](https://classroom.github.com/a/C_m7hHhZ).
   Plazo de entrega (con presentación + defensa + evaluación en aula): 31
   de marzo, 2026, 4:00 pm.
 
