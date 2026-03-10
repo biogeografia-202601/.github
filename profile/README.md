@@ -72,7 +72,10 @@ El código QR de arriba redirige a
 
 - [Unidad 1. Fundamentos, contexto de la biogeografía y repaso de
   ecología
-  numérica](https://biogeografia-master.github.io/fundamentos-conceptos-repaso-ecologia-numerica/presentacion.html)
+  numérica](https://biogeografia-master.github.io/fundamentos-conceptos-repaso-ecologia-numerica/presentacion.html).
+  También ver esta nueva presentación, modernizada usando IA:
+  [Biogeografía: fundamentos, contexto y ecología
+  numérica](https://drive.google.com/file/d/1VvG6VZAbwS_t6Xai9Sm8HGIzRNGYL6aD/view?usp=drive_link)
 
 <!-- - ["Unidad 2. La “plantilla” geográfica: factores físicos y ambientales"](https://biogeografia-master.github.io/plantilla-geografica-factores-fisicos-ambientales/README.html) -->
 <!-- - ["Unidad 3. Unidad 3. Distribución, dinámica y evolución de la biodiversidad"](https://biogeografia-master.github.io/distribucion-dinamica-evolucion-biodiversidad/README.html#1) -->
