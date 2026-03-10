@@ -46,16 +46,18 @@ El código QR de arriba redirige a `r url`
 
 - [Unidad 1. Fundamentos, contexto de la biogeografía y repaso de ecología numérica](https://biogeografia-master.github.io/fundamentos-conceptos-repaso-ecologia-numerica/presentacion.html). También ver esta nueva presentación, modernizada usando IA: [Biogeografía: fundamentos, contexto y ecología numérica](https://drive.google.com/file/d/1VvG6VZAbwS_t6Xai9Sm8HGIzRNGYL6aD/view?usp=drive_link)
 
-<!-- - ["Unidad 2. La “plantilla” geográfica: factores físicos y ambientales"](https://biogeografia-master.github.io/plantilla-geografica-factores-fisicos-ambientales/README.html) -->
+- ["Unidad 2. La “plantilla” geográfica: factores físicos y ambientales"](https://biogeografia-master.github.io/plantilla-geografica-factores-fisicos-ambientales/README.html). También ver esta nueva presentación, modernizada usando IA: [La plantilla geográfica: factores físicos y ambientales que estructuran la biosfera](https://drive.google.com/file/d/15ml1hv-OuZdzEQS6GFW-Aqx1oHfJzjXj/view?usp=drive_link)
 
 <!-- - ["Unidad 3. Unidad 3. Distribución, dinámica y evolución de la biodiversidad"](https://biogeografia-master.github.io/distribucion-dinamica-evolucion-biodiversidad/README.html#1) -->
 
 
 ## Prácticas de aula
 
-- [PA01. Técnicas de ecología numérica con *datasets* de R](https://classroom.github.com/a/lhANY9qh)
-<!-- (https://github.com/biogeografia-master/tecnicas-ecologia-numerica-con-datasets-de-r). -->
-Plazo de entrega (con presentación + defensa + evaluación en aula): 17 de febrero, 2026, 4:00 pm.
+- [PA01. Técnicas de ecología numérica con *datasets* de R](https://classroom.github.com/a/lhANY9qh). Plazo de entrega (con presentación + defensa + evaluación en aula): 17 de febrero, 2026, 4:00 pm.
+
+
+- [PA02. Medio físico, variables ambientales, análisis espacial, correlación, regresión](https://classroom.github.com/a/Yz5wbe25). Plazo de entrega (con presentación + defensa + evaluación en aula): 31 de marzo, 2026, 4:00 pm.
+
 
 <!-- - [PA03. Inferencia estadística a partir de dos muestras independientes usando datos biométricos](https://github.com/biogeografia-master/dos-muestras-independientes-biometria). Plazo de entrega: en el aula, 9 de septiembre, 2025, 7:59 pm. -->
 
