@@ -48,7 +48,7 @@ El código QR de arriba redirige a `r url`
 
 - ["Unidad 2. La “plantilla” geográfica: factores físicos y ambientales"](https://biogeografia-master.github.io/plantilla-geografica-factores-fisicos-ambientales/README.html). También ver esta nueva presentación, modernizada usando IA: [La plantilla geográfica: factores físicos y ambientales que estructuran la biosfera](https://drive.google.com/file/d/15ml1hv-OuZdzEQS6GFW-Aqx1oHfJzjXj/view?usp=drive_link)
 
-<!-- - ["Unidad 3. Unidad 3. Distribución, dinámica y evolución de la biodiversidad"](https://biogeografia-master.github.io/distribucion-dinamica-evolucion-biodiversidad/README.html#1) -->
+- ["Unidad 3. Unidad 3. Distribución, dinámica y evolución de la biodiversidad"](https://biogeografia-master.github.io/distribucion-dinamica-evolucion-biodiversidad/README.html#1)
 
 
 ## Prácticas de aula
@@ -67,7 +67,7 @@ El código QR de arriba redirige a `r url`
 
 <!-- - [PA04: Medio físico, variables ambientales, correlación y regresión](https://github.com/biogeografia-master/medio-fisico-variables-ambientales). Plazo de entrega: 15 de septiembre de 2025, 11:59 pm. -->
 
-<!-- - [PA05. Modelos de distribución de especies (SDM) por medio de aprendizaje automático (*machine learning*)](https://classroom.github.com/a/bo9X7ufl) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 20 de octubre, 2025, 11:59 pm. [Vídeo tutorial](https://drive.google.com/file/d/1W6dckDAzI0Zm0tezKOnTx5oswpA8llQY/view?usp=drive_link). -->
+- [PA03. Modelos de distribución de especies (SDM) por medio de aprendizaje automático (*machine learning*)](https://classroom.github.com/a/T8EZcfBc) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 28 de abril, 2026, 4:00 pm. [Vídeo tutorial](https://drive.google.com/file/d/1W6dckDAzI0Zm0tezKOnTx5oswpA8llQY/view?usp=drive_link).
 
 <!-- - [PA06: Distribución de especies, patrones de distribución por simple inspección](https://github.com/biogeografia-master/patrones-distribucion-simple-inspeccion). Plazo de entrega: 28 de octubre de 2025, 11:59 pm. -->
 

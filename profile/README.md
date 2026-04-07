@@ -84,7 +84,8 @@ El código QR de arriba redirige a
   la
   biosfera](https://drive.google.com/file/d/15ml1hv-OuZdzEQS6GFW-Aqx1oHfJzjXj/view?usp=drive_link)
 
-<!-- - ["Unidad 3. Unidad 3. Distribución, dinámica y evolución de la biodiversidad"](https://biogeografia-master.github.io/distribucion-dinamica-evolucion-biodiversidad/README.html#1) -->
+- [“Unidad 3. Unidad 3. Distribución, dinámica y evolución de la
+  biodiversidad”](https://biogeografia-master.github.io/distribucion-dinamica-evolucion-biodiversidad/README.html#1)
 
 ## Prácticas de aula
 
@@ -102,7 +103,14 @@ El código QR de arriba redirige a
 <!-- - [PA03. Agrupar provincias según su riqueza relativa de especies por géneros de Bromeliaceae](https://github.com/biogeografia-master/agrupamiento-por-riqueza). Plazo de entrega: 4 de marzo, 2024, 7:59 pm. -->
 <!-- - [PA04: Análisis Exploratorio de Datos (AED) y Paradoja de Orlócy](https://github.com/biogeografia-master/aed-transformaciones-orlocy). Plazo de entrega: 17 de marzo, 2025, 11:59 pm. -->
 <!-- - [PA04: Medio físico, variables ambientales, correlación y regresión](https://github.com/biogeografia-master/medio-fisico-variables-ambientales). Plazo de entrega: 15 de septiembre de 2025, 11:59 pm. -->
-<!-- - [PA05. Modelos de distribución de especies (SDM) por medio de aprendizaje automático (*machine learning*)](https://classroom.github.com/a/bo9X7ufl) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 20 de octubre, 2025, 11:59 pm. [Vídeo tutorial](https://drive.google.com/file/d/1W6dckDAzI0Zm0tezKOnTx5oswpA8llQY/view?usp=drive_link). -->
+
+- [PA03. Modelos de distribución de especies (SDM) por medio de
+  aprendizaje automático (*machine
+  learning*)](https://classroom.github.com/a/T8EZcfBc) (acepta la
+  práctica haciendo clic en el enlace). Plazo de entrega: 28 de abril,
+  2026, 4:00 pm. [Vídeo
+  tutorial](https://drive.google.com/file/d/1W6dckDAzI0Zm0tezKOnTx5oswpA8llQY/view?usp=drive_link).
+
 <!-- - [PA06: Distribución de especies, patrones de distribución por simple inspección](https://github.com/biogeografia-master/patrones-distribucion-simple-inspeccion). Plazo de entrega: 28 de octubre de 2025, 11:59 pm. -->
 <!-- - [PA07: Distribución de especies en la bibliografía](https://github.com/biogeografia-master/distribucion-de-especies-en-bibliografia). Plazo de entrega: 15 de octubre de 2024, 7:59 pm. -->
 <!-- - [PA08: Distribución de comunidades en la bibliografía](https://github.com/biogeografia-master/distribucion-de-comunidades-en-bibliografia). Plazo de entrega: 29 de octubre de 2024, 7:59 pm. -->
